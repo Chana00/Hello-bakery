@@ -1,5 +1,7 @@
 # Unity-Hello-bakery
-대학교 유니티강의 프로젝트 - Hello, Bakery! ) 마우스로 화면을 돌려 손님들에게 알맞은 음식을 전달하는 게임
+##대학교 유니티강의 프로젝트 - Hello, Bakery!  
+- 베이커리 자영업자의 입장으로 카운터에서 고객들이 필요한 디저트를 찾아 상호작용하여 목표 금액을 달성하는 게임 프로젝트  
+
 ![슬라이드1](https://user-images.githubusercontent.com/63541383/193843414-5cbb02f5-353a-4f04-93fd-9398b92ba119.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/63541383/193843428-b06788dd-e4b6-46e9-a9ec-691087f0248f.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/63541383/193843435-f1dc5025-01b8-4765-91c8-08861570748c.PNG)
