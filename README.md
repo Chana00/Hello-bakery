@@ -1,5 +1,5 @@
 # Unity-Hello-bakery
-##대학교 유니티강의 프로젝트 - Hello, Bakery!  
+## 대학교 유니티강의 프로젝트 - Hello, Bakery!  
 - 베이커리 자영업자의 입장으로 카운터에서 고객들이 필요한 디저트를 찾아 상호작용하여 목표 금액을 달성하는 게임 프로젝트  
 
 ![슬라이드1](https://user-images.githubusercontent.com/63541383/193843414-5cbb02f5-353a-4f04-93fd-9398b92ba119.PNG)
